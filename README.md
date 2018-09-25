@@ -1,4 +1,4 @@
-# Sublime-text-Ubuntu 
+# Sublime-text在Ubuntu下创建启动器和桌面快捷方式 
  在Ubuntu下使用sublime_text3作为文本编辑器，与gedit使用相同的方式直接在控制台编辑文本、
  1、安装 sublime_text3
  下载地址https://www.sublimetext.com/  下载对应系统的版本  安装成功后配置启动项。
@@ -16,7 +16,9 @@
     Categories=Application;Development;
     StartupNotify=true
 
-
+在命令行下启动：
+创建一个软连接即可
+sudo ln -s  /home/huazd/Downloads/sublime_text_3/sublime_text /usr/bin/sublime 
 
 
 
