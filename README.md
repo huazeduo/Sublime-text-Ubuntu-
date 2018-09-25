@@ -4,6 +4,7 @@
  下载地址https://www.sublimetext.com/  下载对应系统的版本  安装成功后配置启动项。
  2、在桌面创建快键方式。
     在Desktop创建文件sublime.desktop，内容如下：
+    创建成功后保存，赋予sublime.desktop权限，chmod 777 sublime.desktop
     
     [Desktop Entry]
     Name=Sublime Text 2
@@ -14,8 +15,7 @@
     Type=Application
     Categories=Application;Development;
     StartupNotify=true
-    
-    
+
 
 
 
