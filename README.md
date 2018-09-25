@@ -6,21 +6,29 @@
     在Desktop创建文件sublime.desktop，内容如下：
     
     [Desktop Entry]
-
-Name=Sublime Text 2
-
-Comment=Sublime Text 2
-
-Exec=/home/huazd/Downloads/sublime_text_3/sublime_text  //安装路径
-
-Icon=/home/huazd/Downloads/sublime_text_3/Icon/48x48/sublime-text.png //图标路径
-
-Terminal=false
-
-Type=Application
-
-Categories=Application;Development;
-
-StartupNotify=true
+    Name=Sublime Text 2
+    Comment=Sublime Text 2
+    Exec=/home/huazd/Downloads/sublime_text_3/sublime_text  //安装路径
+    Icon=/home/huazd/Downloads/sublime_text_3/Icon/48x48/sublime-text.png //图标路径
+    Terminal=false
+    Type=Application
+    Categories=Application;Development;
+    StartupNotify=true
     
-    创建成功后保存，赋予sublime.desktop权限，chmod 777 sublime.desktop
+    
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+    
+
