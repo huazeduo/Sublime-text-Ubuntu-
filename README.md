@@ -20,6 +20,8 @@
 创建一个软连接即可
 sudo ln -s  /home/huazd/Downloads/sublime_text_3/sublime_text /usr/bin/sublime 
 
+在控制台输入sublime add.cc，相比于gedit和vim更好用一点 
+huazd@ubuntu:~/Documents/c/c++primer/1$ sublime add.cc 
 
 
 
